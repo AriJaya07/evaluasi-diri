@@ -1,4 +1,4 @@
-# Todo Metamask - Sistem Oprasi
+# Todo Metamask - Sistem Operasi
 
 **Link repository:** [Github](https://github.com/AriJaya07/todo-metamask)
 **Link live:** [TodoList](https://todo-meta.onrender.com)
