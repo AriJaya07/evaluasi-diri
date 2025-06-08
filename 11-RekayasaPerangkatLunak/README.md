@@ -29,8 +29,7 @@ Tujuan pembuatan project ini adalah sebagai bukti penguasaan konsep dan metodolo
 |----------------------------------------------|-------------------------------------------------------|
 | Definisi dan metodologi rekayasa perangkat lunak | Penerapan siklus pengembangan perangkat lunak menggunakan metode Agile (penjelasan detail di dokumen manajemen proyek) |
 | Model proses pengembangan perangkat lunak    | Penggunaan model iteratif dan inkremental dalam pengembangan fitur aplikasi |
-| Analisis dan desain dengan pendekatan terstruktur | Dokumentasi kebutuhan dan diagram ERD tersedia dalam folder `/docs` |
-| Strategi dan teknik pengujian perangkat lunak | Pengujian manual dan unit testing menggunakan Jest (detail test case di `/tests`) |
+| Analisis dan desain dengan pendekatan terstruktur | Dokumentasi kebutuhan dan diagram ERD tersedia dalam folder `/doc` |
 | Jaminan kualitas perangkat lunak              | Code review, linting, dan testing sebelum deployment |
 | Manajemen proyek perangkat lunak               | Penggunaan GitHub Issues dan Projects untuk pengelolaan tugas dan timeline |
 
