@@ -1,6 +1,8 @@
 # File konfigurasi VS Code
 .vscode/
 
+.DS_Store
+
 # File environment (jangan upload ke repo publik)
 .env
 
