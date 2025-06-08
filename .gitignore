@@ -1,0 +1,10 @@
+# File konfigurasi VS Code
+.vscode/
+
+# File environment (jangan upload ke repo publik)
+.env
+
+# Node.js, Python, atau bahasa lain bisa menambahkan ini juga:
+node_modules/
+dist/
+*.log
