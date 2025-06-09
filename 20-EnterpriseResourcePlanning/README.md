@@ -37,7 +37,6 @@ Project ini bertujuan untuk:
 | MySQL        | Database relasional                    |
 | ApexCharts   | Visualisasi data (grafik tugas)        |
 | Tailwind CSS | Styling yang cepat dan konsisten       |
-| Vercel       | Deployment serverless (opsional)       |
 
 ---
 
