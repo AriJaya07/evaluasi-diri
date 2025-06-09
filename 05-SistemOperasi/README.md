@@ -35,7 +35,7 @@ Todo Metamask adalah aplikasi to-do list sederhana yang terintegrasi dengan domp
 | Mampu merancang infrastruktur TI | Deployment Next.js + MySQL secara cloud |
 | Mampu memahami konsep sistem operasi | Pengelolaan API dan database sebagai resource |
 | Mampu menerapkan keamanan sistem | Fitur login dan otorisasi akses task |
-| Mampu menggunakan manajemen proyek | Penggunaan Notion/Trello + dokumentasi pengembangan |
+| Mampu menggunakan manajemen proyek | dokumentasi pengembangan |
 | Mampu memahami bisnis dan TI | Visualisasi produktivitas + use-case manajemen tugas harian |
 
 ---
